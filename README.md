@@ -129,3 +129,4 @@ The app must have the following functionalities
 >
 > - All components you implement should go in the `src/components` directory.
 # Text-Editor-app
+# Text-Editor-app
